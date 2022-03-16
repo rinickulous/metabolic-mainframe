@@ -8,3 +8,5 @@ There is a need for an accessible synthetic biology platform. Currently, people 
 The solution: 
 An open source “metabolic mainframe” which allows DIYBiologists to tinker at home. 
 Important reagents can be freeze-dried and stored at room temperature for long periods, then re-hydrated for use. Instead of transforming DNA constructs into cells, “biochemical breadboards” (cell-free lysates) are now commonly used to rapidly test pathways. Open source hardware projects can cut equipment costs down 2-50x and projects such as FreeGenes are making needed sequences freely available to all. A “metabolic mainframe”, similar to the Arduino or Altair 8800, will grow an ecosystem which is decentralized, hacker-friendly and freely shares scientific results.
+
+
